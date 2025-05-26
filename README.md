@@ -16,7 +16,7 @@ I am an aspiring frontend developer with the goal of becoming a lead programmer.
 
 * 🌍  I'm based in HTML, CSS, JS.
 * 🖥️  See my portfolio at [Portfolio](I_Have-No_Portfolio_Yet)
-* ✉️  You can contact me at [shaxzodumarov2009@gmail.com](mailto:silence7649@gmail.com)
+* ✉️  You can contact me at [silence7649@gmail.com](mailto:silence7649@gmail.com)
 * 🧠  I'm learning FireBase
 
 
