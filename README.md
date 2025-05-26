@@ -6,18 +6,18 @@
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Umarov Shaxzod
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kamolov Haydarali
 ======================================================================================================================================
 
 Web Developer
 -------------
 
-I am a committed frontend developer with more than two years of practical web development expertise. I still specialize on using HTML, CSS, JavaScript, and React to create user-friendly and responsive web applications.
+I am an aspiring frontend developer with the goal of becoming a lead programmer. My current English level is B2, and I am continuously working to improve it. I am 13 years old and always open to collaboration and new opportunities.
 
-* 🌍  I'm based in HTML, CSS, JS, React
-* 🖥️  See my portfolio at [Portfolio](http://shaxzod-portfolio.netlify.app/)
-* ✉️  You can contact me at [shaxzodumarov2009@gmail.com](mailto:shaxzodumarov2009@gmail.com)
-* 🧠  I'm learning Next.js
+* 🌍  I'm based in HTML, CSS, JS.
+* 🖥️  See my portfolio at [Portfolio](I_Have-No_Portfolio_Yet)
+* ✉️  You can contact me at [shaxzodumarov2009@gmail.com](mailto:silence7649@gmail.com)
+* 🧠  I'm learning FireBase
 
 
 <h3 align="left">🛠 Skills:</h3>
@@ -55,6 +55,3 @@ I am a committed frontend developer with more than two years of practical web de
 ###
 
 
-### <p align="center"> Socials </p>
-
-<p align="center">  <a href="https://www.github.com/shaxzod999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> <img width="12" /> </picture> </a> <a href="http://www.instagram.com/_shaxzod999_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> <img width="12" /> </picture> </a> <a href="https://www.linkedin.com/in/shaxzod-umarov-a5025b312/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> <img width="12" /> </picture> </a> <a href="https://www.x.com/Kiber_Ctalker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
